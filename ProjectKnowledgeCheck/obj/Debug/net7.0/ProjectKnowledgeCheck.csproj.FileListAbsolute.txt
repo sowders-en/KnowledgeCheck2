@@ -1,0 +1,15 @@
+/Users/sowders-en/Project/KnowledgeCheck2/ProjectKnowledgeCheck/obj/Debug/net7.0/ProjectKnowledgeCheck.csproj.AssemblyReference.cache
+/Users/sowders-en/Project/KnowledgeCheck2/ProjectKnowledgeCheck/obj/Debug/net7.0/ProjectKnowledgeCheck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sowders-en/Project/KnowledgeCheck2/ProjectKnowledgeCheck/obj/Debug/net7.0/ProjectKnowledgeCheck.AssemblyInfoInputs.cache
+/Users/sowders-en/Project/KnowledgeCheck2/ProjectKnowledgeCheck/obj/Debug/net7.0/ProjectKnowledgeCheck.AssemblyInfo.cs
+/Users/sowders-en/Project/KnowledgeCheck2/ProjectKnowledgeCheck/obj/Debug/net7.0/ProjectKnowledgeCheck.csproj.CoreCompileInputs.cache
+/Users/sowders-en/Project/KnowledgeCheck2/ProjectKnowledgeCheck/bin/Debug/net7.0/ProjectKnowledgeCheck
+/Users/sowders-en/Project/KnowledgeCheck2/ProjectKnowledgeCheck/bin/Debug/net7.0/ProjectKnowledgeCheck.deps.json
+/Users/sowders-en/Project/KnowledgeCheck2/ProjectKnowledgeCheck/bin/Debug/net7.0/ProjectKnowledgeCheck.runtimeconfig.json
+/Users/sowders-en/Project/KnowledgeCheck2/ProjectKnowledgeCheck/bin/Debug/net7.0/ProjectKnowledgeCheck.dll
+/Users/sowders-en/Project/KnowledgeCheck2/ProjectKnowledgeCheck/bin/Debug/net7.0/ProjectKnowledgeCheck.pdb
+/Users/sowders-en/Project/KnowledgeCheck2/ProjectKnowledgeCheck/obj/Debug/net7.0/ProjectKnowledgeCheck.dll
+/Users/sowders-en/Project/KnowledgeCheck2/ProjectKnowledgeCheck/obj/Debug/net7.0/refint/ProjectKnowledgeCheck.dll
+/Users/sowders-en/Project/KnowledgeCheck2/ProjectKnowledgeCheck/obj/Debug/net7.0/ProjectKnowledgeCheck.pdb
+/Users/sowders-en/Project/KnowledgeCheck2/ProjectKnowledgeCheck/obj/Debug/net7.0/ProjectKnowledgeCheck.genruntimeconfig.cache
+/Users/sowders-en/Project/KnowledgeCheck2/ProjectKnowledgeCheck/obj/Debug/net7.0/ref/ProjectKnowledgeCheck.dll
